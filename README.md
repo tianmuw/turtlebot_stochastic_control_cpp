@@ -16,7 +16,7 @@ cd ~/ros2_ws/src
 git clone https://github.com/tianmuw/stochastic-controller.git
 ```
 2. Install ROS2: follow the instructions on the ROS2 installation page 
-(https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
+(https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html)
 3. Install any dependencies required by the program:
 ```
 rosdep install --from-paths src --ignore-src -r -y
